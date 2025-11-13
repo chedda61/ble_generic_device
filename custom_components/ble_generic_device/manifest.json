@@ -1,0 +1,13 @@
+{
+  "domain": "ble_generic_device",
+  "name": "BLE Generic Device",
+  "version": "0.1.0",
+  "documentation": "https://github.com/chedda61/ble_generic_device",
+  "codeowners": ["@chedda61"],
+  "requirements": [],
+  "bluetooth": [],
+  "config_flow": true,
+  "after_dependencies": ["bluetooth"],
+  "dependencies": [],
+  "iot_class": "local_push"
+}
