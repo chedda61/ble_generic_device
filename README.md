@@ -13,6 +13,7 @@ or via proxies.
   (can't be less due to HA caching)
 - Switches become unavailable when device not reachable
 - Switches become available with first advertisement
+  BUT sometimes they won't -> Reload integration
 
 ## Installation
 
